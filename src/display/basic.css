@@ -1,0 +1,29 @@
+.main{
+    height: 95vh;
+    background: white;
+}
+
+.container{
+  height: 80%;  
+  margin-top: 90px;
+}
+.p1{
+    width: 50%;
+    margin: 20px 0px 0px 135px;
+    font-size: 15px;
+    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+}
+.img{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    height: 50%;
+    margin: 2px 0px 0px 135px;
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
+.p2{
+    width: 50%;
+    margin: 3px 0px 0px 590px;
+    font-size: 15px;
+    background-image: linear-gradient(to top, #d299c2 0%, #fef9d7 100%);
+}
