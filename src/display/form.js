@@ -48,6 +48,7 @@ const Form = ({formData, setFormData}) => {
                         Submit
                     </button>
                 </div>
+                <h1>{setFormData}</h1>
             </div>
             </form>
         </div>
